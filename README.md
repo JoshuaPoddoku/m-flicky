@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +67,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+## Begin
+```
+git clone https://github.com/JoshuaPoddoku/m-flicky
+```
+```
+cd m-flicky
+```
+```
+npm install
+```
+
+### Useful links
+* www.themoviedb.org
+* www.nodejs.org
+* <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en">React Developer tools</a>
+>>>>>>> 3c4427f3b0c5dac583974a9a4c55c4d1795e3795
