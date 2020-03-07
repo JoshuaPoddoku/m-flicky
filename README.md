@@ -13,9 +13,15 @@ npm install
 ```
 ## Dependencies
 
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
+*  https://www.npmjs.com/package/create-react-app     
+*  https://www.npmjs.com/package/@reach/router
+*  https://www.npmjs.com/package/react-fontawesome
+*  https://www.npmjs.com/package/styled-components
+
+### Install dependencies in one go!
+```
+npm i prop-types @reach/router styled-components react-fontawesome
+```
 
 ### Useful links
 * www.themoviedb.org
