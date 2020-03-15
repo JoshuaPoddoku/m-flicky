@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const StyledHeader = styled.div`
-  background: #1c1c1c;
+  background: #344073;
   padding: 0 20px;
   box-sizing: border-box;
 
